@@ -1,0 +1,16 @@
+{
+  "name": "submit-error-focus",
+  "main": "submit-error-focus.js",
+  "authors": [
+    "Edward paulino <edward.xuluc@creatibot.com>"
+  ],
+  "description": "enviar el foco al primer campo del formulario con error",
+  "keywords": [
+    "submit",
+    "form",
+    "error",
+    "focus"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
